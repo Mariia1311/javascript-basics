@@ -1,0 +1,1 @@
+const pizzaToppings = ['tomato sauce', 'cheese', 'ham']; console.log(pizzaToppings);
